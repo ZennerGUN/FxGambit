@@ -1,3 +1,6 @@
+if(condition)
+   // 07222025 Print("Debug message");
+
 //+------------------------------------------------------------------+
 //|                                                    BUY_LIMIT.mqh |
 //|                        Copyright 2017, MetaQuotes Software Corp. |
